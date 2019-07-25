@@ -6,6 +6,7 @@ Logitech has software called Logitech Options that allows you to map media contr
 I wanted some way to emulate this functionality on non-Logitech brand mice, so I created this AutoHotKey script to capture and remap mouse input for any mouse.
 
 ## Usage
-Download and Install - [AutoHotKey](https://www.autohotkey.com/)
-Download [MouseMediaGestures.ahk](MouseMediaGestures.ahk) file
-  - Save to Windows Startup folder
+- Download and Install - [AutoHotKey](https://www.autohotkey.com/)
+- Download [MouseMediaGestures.ahk](MouseMediaGestures.ahk) file
+  - Save file to Windows Startup folder (C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\startup)
+  - Restart computer and test new mouse controls
